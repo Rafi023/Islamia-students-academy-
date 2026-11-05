@@ -1,0 +1,6 @@
+{
+  "name": "Islamia Students Academy",
+  "description": "Official institutional portal for Islamia Students Academy, showcasing academic programs, online admissions, student portal result checker, faculty, and campus life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
