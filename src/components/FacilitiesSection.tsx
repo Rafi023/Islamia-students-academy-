@@ -21,7 +21,7 @@ export const FacilitiesSection: React.FC = () => {
     {
       title: "Advanced STEM & Robotics Laboratories",
       category: "Empirical Sciences",
-      image: "/src/assets/images/students_science_lab_1793845749002.jpg",
+      image: "/assets/images/students_science_lab_1793845749002.jpg",
       description: "Fully equipped individual laboratories for Physics, Chemistry, Biology, and Computer Robotics. Students conduct hands-on experiments starting from middle school under senior science mentors.",
       features: [
         "Digital microcontrollers, Arduino and robotics kits",
@@ -33,7 +33,7 @@ export const FacilitiesSection: React.FC = () => {
     {
       title: "Grand Academic Library & Digital Research Hall",
       category: "Scholarship & Inquiry",
-      image: "/src/assets/images/campus_library_study_1793845748684.jpg",
+      image: "/assets/images/campus_library_study_1793845748684.jpg",
       description: "A serene, cathedral-style sanctuary housing over 18,000 volumes across modern sciences, world literature, Islamic jurisprudence, encyclopedia collections, and high-speed research terminals.",
       features: [
         "18,000+ cataloged academic and reference titles",
@@ -45,7 +45,7 @@ export const FacilitiesSection: React.FC = () => {
     {
       title: "Purpose-Built Islamic Architecture & Courtyards",
       category: "Campus Environment",
-      image: "/src/assets/images/hero_islamia_campus_1793845747169.jpg",
+      image: "/assets/images/hero_islamia_campus_1793845747169.jpg",
       description: "A secure, green 3-acre gated campus designed with majestic Islamic geometric arches, spacious ventilated classrooms, natural sunlit courtyards, fountain gardens, and modern cafeteria facilities.",
       features: [
         "24/7 CCTV surveillance and biometric attendance gates",

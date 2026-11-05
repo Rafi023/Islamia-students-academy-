@@ -142,7 +142,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenAdmissions, onOpenPortal }
                   alt={SCHOOL_INFO.director}
                   className="w-10 h-10 rounded-lg object-cover object-top border border-white/20 shrink-0 bg-slate-800"
                   onError={(e) => {
-                    (e.currentTarget as HTMLImageElement).src = '/src/assets/images/director_syed_nouman_shah.jpg';
+                    (e.currentTarget as HTMLImageElement).src = '/assets/images/director_syed_nouman_shah.jpg';
                   }}
                 />
                 <div>
@@ -164,7 +164,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenAdmissions, onOpenPortal }
                   alt={SCHOOL_INFO.contact.inChargeName}
                   className="w-10 h-10 rounded-lg object-cover object-top border border-white/20 shrink-0 bg-slate-800"
                   onError={(e) => {
-                    (e.currentTarget as HTMLImageElement).src = '/src/assets/images/sheikh_salman_khan_admissions.jpg';
+                    (e.currentTarget as HTMLImageElement).src = '/assets/images/sheikh_salman_khan_admissions.jpg';
                   }}
                 />
                 <div>

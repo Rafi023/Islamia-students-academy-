@@ -88,7 +88,7 @@ export const FacultySection: React.FC = () => {
                   alt="Mr. Rafiullah - English Language Instructor"
                   className="w-52 h-64 sm:w-56 sm:h-72 rounded-2xl object-cover object-[center_15%] shadow-2xl border-4 border-white/90 bg-slate-800"
                   onError={(e) => {
-                    (e.currentTarget as HTMLImageElement).src = '/src/assets/images/mr_rafiullah_instructor.jpg';
+                    (e.currentTarget as HTMLImageElement).src = '/assets/images/mr_rafiullah_instructor.jpg';
                   }}
                 />
                 <div className="absolute -bottom-3 right-3 bg-white text-[#0D47A1] px-3 py-1 rounded-full text-[11px] font-bold shadow-md border border-slate-200 flex items-center gap-1.5">
@@ -213,11 +213,11 @@ export const FacultySection: React.FC = () => {
                         className="w-full h-full object-cover object-[center_15%]"
                         onError={(e) => {
                           if (member.id === 'fac-rafiullah') {
-                            (e.currentTarget as HTMLImageElement).src = '/src/assets/images/mr_rafiullah_instructor.jpg';
+                            (e.currentTarget as HTMLImageElement).src = '/assets/images/mr_rafiullah_instructor.jpg';
                           } else if (member.id === 'fac-0') {
-                            (e.currentTarget as HTMLImageElement).src = '/src/assets/images/director_syed_nouman_shah.jpg';
+                            (e.currentTarget as HTMLImageElement).src = '/assets/images/director_syed_nouman_shah.jpg';
                           } else if (member.id === 'fac-salman') {
-                            (e.currentTarget as HTMLImageElement).src = '/src/assets/images/sheikh_salman_khan_admissions.jpg';
+                            (e.currentTarget as HTMLImageElement).src = '/assets/images/sheikh_salman_khan_admissions.jpg';
                           }
                         }}
                       />

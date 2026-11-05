@@ -182,7 +182,7 @@ export const ContactSection: React.FC = () => {
                     alt={contacts.directorName}
                     className="w-full h-full object-cover object-top"
                     onError={(e) => {
-                      (e.currentTarget as HTMLImageElement).src = '/src/assets/images/director_syed_nouman_shah.jpg';
+                      (e.currentTarget as HTMLImageElement).src = '/assets/images/director_syed_nouman_shah.jpg';
                     }}
                   />
                 </div>
@@ -216,7 +216,7 @@ export const ContactSection: React.FC = () => {
                       alt={contacts.inChargeName}
                       className="w-full h-full object-cover object-top"
                       onError={(e) => {
-                        (e.currentTarget as HTMLImageElement).src = '/src/assets/images/sheikh_salman_khan_admissions.jpg';
+                        (e.currentTarget as HTMLImageElement).src = '/assets/images/sheikh_salman_khan_admissions.jpg';
                       }}
                     />
                   </div>

@@ -232,7 +232,7 @@ export const AdmissionsSection: React.FC<AdmissionsSectionProps> = ({ onOpenAppl
                     alt="Sheikh Salman Khan - Admissions In-charge"
                     className="w-full h-full object-cover object-top"
                     onError={(e) => {
-                      (e.currentTarget as HTMLImageElement).src = '/src/assets/images/sheikh_salman_khan_admissions.jpg';
+                      (e.currentTarget as HTMLImageElement).src = '/assets/images/sheikh_salman_khan_admissions.jpg';
                     }}
                   />
                 </div>

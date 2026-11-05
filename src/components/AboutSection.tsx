@@ -188,7 +188,7 @@ export const AboutSection: React.FC = () => {
                   alt="Director Syed Nouman Shah - Islamia Students Academy"
                   className="w-52 h-64 sm:w-60 sm:h-72 rounded-2xl object-cover object-top shadow-2xl border-4 border-white/90 bg-slate-800"
                   onError={(e) => {
-                    (e.currentTarget as HTMLImageElement).src = '/src/assets/images/director_syed_nouman_shah.jpg';
+                    (e.currentTarget as HTMLImageElement).src = '/assets/images/director_syed_nouman_shah.jpg';
                   }}
                   referrerPolicy="no-referrer"
                 />

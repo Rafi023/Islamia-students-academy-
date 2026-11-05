@@ -525,7 +525,7 @@ export const POSITION_HOLDERS_DATA: PositionHolder[] = [
     percentage: 98.36,
     group: "Science (Biology)",
     rollNumber: "849201",
-    imagePath: "/src/assets/images/student_topper_10th_first_1793845995418.jpg",
+    imagePath: "/assets/images/student_topper_10th_first_1793845995418.jpg",
     boardCitation: "1st Position Overall in Divisional Board Examination. Gold Medalist & School Valedictorian.",
     majorStrengths: ["100/100 Mathematics", "99/100 Physics", "99/100 Chemistry", "98/100 Biology"]
   },
@@ -541,7 +541,7 @@ export const POSITION_HOLDERS_DATA: PositionHolder[] = [
     percentage: 97.81,
     group: "Science (Computer)",
     rollNumber: "849224",
-    imagePath: "/src/assets/images/student_topper_10th_second_1793845996732.jpg",
+    imagePath: "/assets/images/student_topper_10th_second_1793845996732.jpg",
     boardCitation: "2nd Position Overall in Board Examination. Silver Medalist & All-Round Star Scholar.",
     majorStrengths: ["100/100 Computer Studies", "99/100 Mathematics", "98/100 Physics", "98/100 English"]
   },
@@ -557,7 +557,7 @@ export const POSITION_HOLDERS_DATA: PositionHolder[] = [
     percentage: 97.09,
     group: "Pre-Engineering",
     rollNumber: "849219",
-    imagePath: "/src/assets/images/student_topper_9th_first_1793845997702.jpg",
+    imagePath: "/assets/images/student_topper_9th_first_1793845997702.jpg",
     boardCitation: "3rd Position in Divisional Board. Bronze Medalist in Physical Sciences & Analytical Mechanics.",
     majorStrengths: ["99/100 Mathematics", "97/100 Physics", "96/100 Chemistry", "98/100 Islamiyat"]
   },
@@ -575,7 +575,7 @@ export const POSITION_HOLDERS_DATA: PositionHolder[] = [
     percentage: 97.81,
     group: "Science (Biology)",
     rollNumber: "914082",
-    imagePath: "/src/assets/images/student_topper_9th_first_1793845997702.jpg",
+    imagePath: "/assets/images/student_topper_9th_first_1793845997702.jpg",
     boardCitation: "1st Position in 9th Class Annual Board Examination. Gold Crest of Scholastic Brilliance.",
     majorStrengths: ["75/75 Mathematics", "60/60 Physics", "60/60 Chemistry", "74/75 Urdu"]
   },
@@ -591,7 +591,7 @@ export const POSITION_HOLDERS_DATA: PositionHolder[] = [
     percentage: 96.72,
     group: "Science (Computer)",
     rollNumber: "914105",
-    imagePath: "/src/assets/images/student_topper_9th_second_1793845998086.jpg",
+    imagePath: "/assets/images/student_topper_9th_second_1793845998086.jpg",
     boardCitation: "2nd Position in 9th Class Annual Board Examination. Silver Medalist in Computational Thinking.",
     majorStrengths: ["75/75 Mathematics", "50/50 Computer Lab", "59/60 Physics", "73/75 English"]
   },
@@ -607,7 +607,7 @@ export const POSITION_HOLDERS_DATA: PositionHolder[] = [
     percentage: 95.63,
     group: "Science (Biology)",
     rollNumber: "914093",
-    imagePath: "/src/assets/images/student_topper_10th_first_1793845995418.jpg",
+    imagePath: "/assets/images/student_topper_10th_first_1793845995418.jpg",
     boardCitation: "3rd Position in 9th Class Annual Board Examination. Bronze Medalist in Life Sciences.",
     majorStrengths: ["74/75 Biology", "59/60 Chemistry", "58/60 Physics", "50/50 Islamiyat"]
   }

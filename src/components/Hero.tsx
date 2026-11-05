@@ -108,7 +108,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenAdmissions, onOpenPortal }) =>
             <div className="relative rounded-2xl overflow-hidden shadow-2xl border-4 border-white bg-slate-900 group">
               {/* Campus Image */}
               <img
-                src="/src/assets/images/hero_islamia_campus_1793845747169.jpg"
+                src="/assets/images/hero_islamia_campus_1793845747169.jpg"
                 alt="Islamia Students Academy Central Campus and Courtyard"
                 className="w-full h-[380px] sm:h-[440px] object-cover transition-transform duration-700 group-hover:scale-105"
                 referrerPolicy="no-referrer"
